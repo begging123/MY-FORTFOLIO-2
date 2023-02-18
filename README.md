@@ -1,2 +1,7 @@
-# MY-FORTFOLIO-2
+# MY ACTIVITY<picture>
+  <source srcset="img_avatar.png">
+  <source srcset="img_girl.jpg">
+  <img src="img_beatles.gif" alt="Beatles" style="width:auto;">
+</picture>
+
 ACTIVITY 2
